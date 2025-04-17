@@ -20,6 +20,12 @@ Jupyter Notebook for analysis and visualization
 
 Git & GitHub for version control and collaboration
 
+# 🛠️ Built With
+- Python 🐍
+- Pandas
+- Matplotlib
+
+
 # 📊 Visualizations
 Trend & Seasonality Plots
 
